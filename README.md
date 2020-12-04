@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+## To live in the Digital Age
 
-You can use the [editor on GitHub](https://github.com/sunnysahni/sunnysahni.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+To rummage for solace. To fumble for your phone in your pocket, to find it, to feel relief. To wrap your fingers around its edges, to hug it tightly within your palm. To go for a walk outside. To see someone approaching, to lower your gaze, to pull out your phone, to check the time. To hear a chime and feel a buzz. To smile at the familiar glow. To unlock the box with a swift fingerprint. To walk with both hands in your pockets, hoodie rolled up. To watch the streetlamps, turn on at night. To tilt your head up at the sky. To feel small. To point your camera up to the stars, to flash a picture. To feel cold. To warm up your hands with the heat of your phone. 
+
+To crave a snack. To rip open a packet of Maggi Noodles. To gaze deeply into the rotating microwave plate. To eat at an empty table. To pull open a podcast on your phone. To listen to somebody, speak to an audience you cannot see. To imagine sitting next to somebody. To laugh alone. To share the last bite of noodles with yourself. To take a sip of cold water. To panic when your phone threatens to die, to frantically scramble for a charger, to jam the charger into your phone socket. To watch the screen brighten just slightly, to indicate that it is charging. To slump back into your seat, relieved. To sit with both elbows on the table and chin resting in both hands. To wait for your phone to charge back up. 
+
+To sing to the world from your bedroom window. To mindlessly scroll through apps and trending hashtags. To blink too many times. To skip a heartbeat when a notification pops up. To put your phone down. To look up at the ceiling. To reminisce the day. To pick up your phone, again. To check the weather for tomorrow. To check if your alarms have been set. To check over your calendar. To close all remaining open apps. To close your phone, again. To close your own eyes.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
