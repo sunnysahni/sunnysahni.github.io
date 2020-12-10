@@ -7,9 +7,6 @@ To crave a snack. To rip open a packet of Maggi Noodles. To gaze deeply into the
 To sing to the world from your bedroom window. To mindlessly scroll through apps and trending hashtags. To blink too many times. To skip a heartbeat when a notification pops up. To put your phone down. To look up at the ceiling. To reminisce the day. To pick up your phone, again. To check the weather for tomorrow. To check if your alarms have been set. To check over your calendar. To close all remaining open apps. To close your phone, again. To close your own eyes.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ![image](hackingintoarchive.PNG)
 
 ### Markdown
@@ -43,3 +40,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![image](crwr poster.jpg)
