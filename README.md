@@ -139,25 +139,32 @@ When you close your eyes at night, there she watches, with bright electricity pu
 Wind tussles my hair and fussily tugs at my clothes as I look beyond the west terrace of the Griffith Observatory, over rolling brown hills and twinkling Los Angeles city-lights. Arching ever-so-slightly, the sky, a milky blue and orange gradient, stretches and blinks drowsily. The sun rests her head along his back. I notice the first few stars just beginning to appear and instinctively reach for my phone. Little, delicate, dazzling gems from the universe. Cosmic sprinkles. But when I point my camera towards the sky, all I manage to capture is a fuzzy, dim-lit, partial-narrative. Where did the stars go? I slip my phone back into my pocket and let my eyes absorb and document the stars instead. Only a few moments go by before my mom indicates it is time to go inside the big observatory dome, to see the tonight’s special show: Centered in the Universe. 
 There is a long line of people leading up to the entrance. I notice 2 security cameras perched on the left wall watching each of us pass by. As I enter through the large metal awning, my eyes wander up to a blank, globular ceiling, veined with faint grey markings that remind me of the gridlines on a coordinate axis. Someone slips a pamphlet into my hand:
 
-                        Digistar 5 Projection System
-                        The Samuel Oschin Planeterium, with its state-of-the-art Zeiss star projector and aluminum dome provides a detailed, digital                                                     projection of our solar system from the comforts of cushy sofa chairs, an immersive surround-sound system, and bright,                                                           theatrical, LED lighting. The 290-seat Samuel Oschin Planeterium Theater is the finest planetarium in the world.
+                  Digistar 5 Projection System
+                  The Samuel Oschin Planeterium, with its state-of-the-art Zeiss star projector
+                  and aluminum dome provides a detailed, digital projection of our solar system 
+                  from the comforts of cushy sofa chairs, an immersive surround-sound system, and
+                  bright, theatrical, LED lighting. The 290-seat Samuel Oschin Planeterium Theater is
+                  the finest planetarium in the world.
 
-                        Imported from Germany, the Zeiss Universarium Mark IX star projector uses fiber-optic technology to deliver the most accurate                                                   and awe-inspiring planetarium dome full of stars anywhere.
+                  Imported from Germany, the Zeiss Universarium Mark IX star projector uses fiber-optic
+                  technology to deliver the most accurate and awe-inspiring planetarium dome full of
+                  stars anywhere.
 
-                        Experience more with 2 Laser Projectors!
-                        Better graphics! Higher resolution!
-                        Experience 8k resolution with 60 frames per second playback from our latest projection technology. 
+                  Experience more with 2 Laser Projectors!
+                  Better graphics! Higher resolution!
+                  Experience 8k resolution with 60 frames per second playback from our latest projection technology. 
 
-                        Digistar intensifies color contrast and saturation and reduces image distortion on the curved planetarium dome surface for a                                                     transformative visual experience. 
-                        [http://www.griffithobservatory.org/exhibits/sop.html]
+                  Digistar intensifies color contrast and saturation and reduces image distortion on the 
+                  curved planetarium dome surface for a transformative visual experience. 
+                  [http://www.griffithobservatory.org/exhibits/sop.html]
 
 We find seats somewhere within the sea of people filtering into the room. My mom is happy that we have gotten good seats, but I know that it doesn’t matter where we sit, because we will all be seeing the same thing anyways. We will all be observing the 8k resolution, 60 frames per second playback. We will be entranced by the multi-laser-projection graphics, and the overpowering speaker who will guide us through the cosmos. We will tilt our heads up to the roof and sink further into our seats. Inside this little black box, we will believe that we are traveling through the universe. 
 
 As the night passes, I reflect on the contents presented to me by the tools we claim most accurately depict our universe. I need to remind myself that the images I see on this dome ceiling are not real. Pointing the camera at each other is no different than pointing the camera to the sky. How can I be skeptical of one and not the other? Outside, 
                                                             
-                                                            One gold, glowing eye
-                                                         silently bids me goodnight,
-                                                             high up in the sky.
+                                                One gold, glowing eye
+                                             silently bids me goodnight,
+                                                 high up in the sky.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
