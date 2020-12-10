@@ -10,6 +10,8 @@ To sing to the world from your bedroom window. To mindlessly scroll through apps
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+![image](hackingintoarchive.PNG)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
