@@ -110,6 +110,8 @@ And don’t forget that they’re open Mondays – Saturdays, from 8AM – 3PM.
 ![image](counter_meme.png)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## The Digital Line
 
 Have you ever watched a steam train leave its station? She slowly groans and grubs against the rails, churning her large, mechanical legs with increasing fervor. Each wooden nibble ignites her further. She releases a loud, airy chuckle as she races down the platform, holding her passengers captive.  
