@@ -5,9 +5,10 @@
 Throughout this course I have reflected on the idea of conveying “truth” through language. 
 I recall one of my favorite texts from the course -- James Agee’s interpretation of
 Walker Evans’s photos in Let Us Now Praise Famous Men. From this reading, I realized that
-there is no singular truth or singular, “correct’ interpretation of reality. But this is 
+there is no singular truth or singular, “correct’ interpretation of reality. This is 
 not a bad thing. In fact, we need to have multiple interpretations of reality to shock
 audiences into action, by exposing them to realities that they have not yet experienced.
+
 Language does not have to be confined to words on paper, and the way we use language to
 spur social change can manifest through many different mediums. Shocking someone into
 action does not have to involve a bombardment of internet messages or advertisements.
@@ -33,19 +34,19 @@ To rummage for solace. To fumble for your phone in your pocket, to find it, to f
 
 To crave a snack. To rip open a packet of Maggi Noodles. To gaze deeply into the rotating microwave plate. To eat at an empty table. To pull open a podcast on your phone. To listen to somebody, speak to an audience you cannot see. To imagine sitting next to somebody. To laugh alone. To share the last bite of noodles with yourself. To take a sip of cold water. To panic when your phone threatens to die, to frantically scramble for a charger, to jam the charger into your phone socket. To watch the screen brighten just slightly, to indicate that it is charging. To slump back into your seat, relieved. To sit with both elbows on the table and chin resting in both hands. To wait for your phone to charge back up. 
 
-To sing to the world from your bedroom window. To mindlessly scroll through apps and trending hashtags. To blink too many times. To skip a heartbeat when a notification pops up. To put your phone down. To look up at the ceiling. To reminisce the day. To pick up your phone, again. To check the weather for tomorrow. To check if your alarms have been set. To check over your calendar. To close all remaining open apps. To close your phone, again. To close your own eyes.
+To sing to the world from your bedroom window. To mindlessly scroll through apps and trending hashtags. To blink too many times. To skip a heartbeat when a notification pops up. To sift through your Insta. To distinguish each uploaded picture by its number of likes and comments. To measure the value of each memory by the recognition it has received. To have forgotten how you truly felt when that photo was taken. To have filtered out the warmth within your embraces and the lines that defined your smiles and worries. To have cropped out all the imperfections of the moment. To convince yourself that reality looks like #MIRL #POTD #Goals. To deconstruct the  intimicacies of reality and attempt to reconstruct them with brighter smiles.
+
+To put your phone down. To look up at the ceiling. To reminisce the day. To pick up your phone, again. To check the weather for tomorrow. To check if your alarms have been set. To check over your calendar. To close all remaining open apps. To close your phone, again. To close your own eyes.
 
 ```markdown
 Process Notes:
 
 This piece hopes to capture the loneliness of living in the digital age and the irony of how our 
-solace in technology perpetuates this loneliness. Our everyday actions and decisions illustrate a
-life that revolves around our devices and yet revolves around nothing at the same time. Life is
+solace in technology perpetuates this loneliness. Leaning into my other pieces, it also hopes to contrast real intimacy with the artificial intimacy that technology lets us construct. Our everyday actions and decisions illustrate a life that revolves around our devices and yet revolves around nothing at the same time. Life is
 punctuated by moments of waiting and panic, when we realize how dependent we are on our technology ,
 and how we rely on it to save us from our thoughts.  
 
 ```
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](hackingintoarchive.PNG)
 
