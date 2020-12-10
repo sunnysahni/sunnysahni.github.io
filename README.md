@@ -2,9 +2,26 @@
 
 ```markdown
 
-Throughout this course I have reflected on the idea of conveying “truth” through language. I recall one of my favorite texts from the course -- James Agee’s interpretation of Walker Evans’s photos in Let Us Now Praise Famous Men. From this reading, I realized that there is no singular truth or singular, “correct’ interpretation of reality. But this is not a bad thing. In fact, we need to have multiple interpretations of reality to shock audiences into action, by exposing them to realities that they have not yet experienced. Language does not have to be confined to words on paper, and the way we use language to spur social change can manifest through many different mediums. Shocking someone into action does not have to involve a bombardment of internet messages or advertisements. It can be as simple as a memoir on cancer. It can look like a graphic novel. It can look like a puppet. In the end, the ultimate goal of a body of language that invokes social change is to assume a poetic form: presenting what is taken for granted as “common” through an unfamiliar lens, which inspires the masses to commit to action. The goal of writing in social change is not only to change thought and action, but to induce a consciousness in the way of thinking and acting. 
+Throughout this course I have reflected on the idea of conveying “truth” through language. 
+I recall one of my favorite texts from the course -- James Agee’s interpretation of
+Walker Evans’s photos in Let Us Now Praise Famous Men. From this reading, I realized that
+there is no singular truth or singular, “correct’ interpretation of reality. But this is 
+not a bad thing. In fact, we need to have multiple interpretations of reality to shock
+audiences into action, by exposing them to realities that they have not yet experienced.
+Language does not have to be confined to words on paper, and the way we use language to
+spur social change can manifest through many different mediums. Shocking someone into
+action does not have to involve a bombardment of internet messages or advertisements.
+It can be as simple as a memoir on cancer. It can look like a graphic novel. It can
+look like a puppet. In the end, the ultimate goal of a body of language that invokes 
+social change is to assume a poetic form: presenting what is taken for granted as “common” 
+through an unfamiliar lens, which inspires the masses to commit to action. The goal of 
+writing in social change is not only to change thought and action, but to induce a 
+consciousness in the way of thinking and acting. 
 
-With the pieces I have woven together in this portfolio, I hope to encourage a reflection on our subsistence in the digital age. How have our devices rendered our intimicay with the world and with each other, artificial? How can we break away from the confines of this modern, digital prison? 
+With the pieces I have woven together in this portfolio, I hope to encourage a reflection 
+on our subsistence in the digital age. How have our devices rendered our intimicay with the
+world and with each other, artificial? How can we break away from the confines of this 
+modern, digital prison? 
 ```
 
 
@@ -21,7 +38,11 @@ To sing to the world from your bedroom window. To mindlessly scroll through apps
 ```markdown
 Process Notes:
 
-This piece hopes to capture the loneliness of living in the digital age and the irony of how our solace in technology perpetuates this loneliness. Our everyday actions and decisions illustrate a life that revolves around our devices and yet revolves around nothing at the same time. Life is punctuated by moments of waiting and panic, when we realize how dependent we are on our technology , and how we rely on it to save us from our thoughts.  
+This piece hopes to capture the loneliness of living in the digital age and the irony of how our 
+solace in technology perpetuates this loneliness. Our everyday actions and decisions illustrate a
+life that revolves around our devices and yet revolves around nothing at the same time. Life is
+punctuated by moments of waiting and panic, when we realize how dependent we are on our technology ,
+and how we rely on it to save us from our thoughts.  
 
 ```
 
@@ -31,7 +52,14 @@ This piece hopes to capture the loneliness of living in the digital age and the 
 ```markdown
 Process Notes:
 
-With hopes to capture the dangers of extreme transparency, drawing upon how we have no choice but to partake in the mechanisms that perpetuate data collection and redistribution. First, I thought of doing something like Zong! and after reading Hollywood Forever, I realized I also really wanted to incorporate images with my text. Later, I had an idea to illustrate my subject of “living in the digital age” – i.e. the loneliness and data extortion that ensues our technology – by contrasting the laws we’ve set up to “protect us” (from the U.S. Department of Justice Privacy Act of 1974, 2020 Edition) with the reality of our situation (tracking bots, data-hungry advertising, and our digitally-influenced cultural transformation…). I spiraled down a rabbit hole, sifting through Privacy Act documents and Information Protection statements. 
+With hopes to capture the dangers of extreme transparency, drawing upon how we have no choice but to
+partake in the mechanisms that perpetuate data collection and redistribution. First, I thought of doing
+something like Zong! and after reading Hollywood Forever, I realized I also really wanted to incorporate 
+images with my text. Later, I had an idea to illustrate my subject of “living in the digital age” 
+– i.e. the loneliness and data extortion that ensues our technology – by contrasting the laws we’ve set up
+to “protect us” (from the U.S. Department of Justice Privacy Act of 1974, 2020 Edition) with the reality of
+our situation (tracking bots, data-hungry advertising, and our digitally-influenced cultural transformation…).
+I spiraled down a rabbit hole, sifting through Privacy Act documents and Information Protection statements. 
 
 Sources:
 
@@ -53,7 +81,14 @@ https://www.fincen.gov/foia-exemptions-and-exclusions#:~:text=The%20Freedom%20of
 
 ```markdown
 
-I decided to create a political poster about loss of privacy and “digital confinement” that parodies the Uncle Sam “I want you for U.S. army” propaganda poster. I wanted to parallel the level of understanding that most Americans who joined the U.S. army for WW1 had about the war with that of most Americans who partake in our modern digital democracy. The "flag" behind a faceless Uncle Sam resembles a prison cell, and the warped stars look like passcode asterisks in the shape of a dollar sign. So often, we naively accept the “terms and conditions” without truly understanding what we are agreeing to and supporting. My parodied poster is very matter of fact, blatantly exposing the deception that underlies our privacy (or rather, lack of privacy) in the digital age.
+I decided to create a political poster about loss of privacy and “digital confinement” that parodies the
+Uncle Sam “I want you for U.S. army” propaganda poster. I wanted to parallel the level of understanding that
+most Americans who joined the U.S. army for WW1 had about the war with that of most Americans who partake in
+our modern digital democracy. The "flag" behind a faceless Uncle Sam resembles a prison cell, and the warped
+stars look like passcode asterisks in the shape of a dollar sign. So often, we naively accept the “terms and 
+conditions” without truly understanding what we are agreeing to and supporting. My parodied poster is very
+matter of fact, blatantly exposing the deception that underlies our privacy (or rather, lack of privacy) 
+in the digital age.
 
 ```
 
