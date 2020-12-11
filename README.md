@@ -34,14 +34,15 @@ modern, digital prison?
 ```markdown
 Process Notes:
 
-I decided to create a political poster about loss of privacy and “digital confinement” that parodies the
-Uncle Sam “I want you for U.S. army” propaganda poster. I wanted to parallel the level of understanding that
-most Americans who joined the U.S. army for WW1 had about the war with that of most Americans who partake in
-our modern digital democracy. The "flag" behind a faceless Uncle Sam resembles a prison cell, and the warped
-stars look like passcode asterisks in the shape of a dollar sign. So often, we naively accept the “terms and 
-conditions” without truly understanding what we are agreeing to and supporting. My parodied poster is very
-matter of fact, blatantly exposing the deception that underlies our privacy (or rather, lack of privacy) 
-in the digital age.
+I decided to create a political poster about loss of privacy and “digital confinement” 
+that parodies the Uncle Sam “I want you for U.S. army” propaganda poster. I wanted to
+parallel the level of understanding that most Americans who joined the U.S. army for WW1
+had about the war with that of most Americans who partake in our modern digital democracy.
+The "flag" behind a faceless Uncle Sam resembles a prison cell, and the warped stars look
+like passcode asterisks in the shape of a dollar sign. So often, we naively accept the “terms
+and conditions” without truly understanding what we are agreeing to and supporting. My parodied
+poster is very matter of fact, blatantly exposing the deception that underlies our privacy
+(or rather, lack of privacy) in the digital age.
 
 ```
 
@@ -53,14 +54,15 @@ in the digital age.
 ```markdown
 Process Notes:
 
-With hopes to capture the dangers of extreme transparency, drawing upon how we have no choice but to
-partake in the mechanisms that perpetuate data collection and redistribution. First, I thought of doing
-something like Zong! and after reading Hollywood Forever, I realized I also really wanted to incorporate 
-images with my text. Later, I had an idea to illustrate my subject of “living in the digital age” 
-– i.e. the loneliness and data extortion that ensues our technology – by contrasting the laws we’ve set up
-to “protect us” (from the U.S. Department of Justice Privacy Act of 1974, 2020 Edition) with the reality of
-our situation (tracking bots, data-hungry advertising, and our digitally-influenced cultural transformation…).
-I spiraled down a rabbit hole, sifting through Privacy Act documents and Information Protection statements. 
+With hopes to capture the dangers of extreme transparency, drawing upon how we have no choice
+but to partake in the mechanisms that perpetuate data collection and redistribution. First, I
+thought of doing something like Zong! and after reading Hollywood Forever, I realized I also 
+really wanted to incorporate images with my text. Later, I had an idea to illustrate my subject 
+of “living in the digital age” – i.e. the loneliness and data extortion that ensues our technology – 
+by contrasting the laws we’ve set up to “protect us” (from the U.S. Department of Justice Privacy Act
+of 1974, 2020 Edition) with the reality of our situation (tracking bots, data-hungry advertising,
+and our digitally-influenced cultural transformation…). I spiraled down a rabbit hole, sifting
+through Privacy Act documents and Information Protection statements. 
 
 Sources:
 
@@ -160,7 +162,16 @@ As the night passes, I reflect on the contents presented to me by the tools we c
 ```markdown
 Process Notes:
 
-This piece describes my trip to the Griffith Observatory, and focuses specifically on this show I watched in their dome, about the universe. The show within the dome parallels my topic of being confined within a “digital prison”, in the sense that our perceptions of the universe are defined not by our personal observations, but by what we are presented to believe. And this is true for many things, in fact. We naively believe what we are told, under the guise that “science” is always true, and the digital instruments that we use to measure and analyze and understand our universe are accurate. By objectively describing the physical confines of the dome and the artificiality of the show, as well as describing the authentic beauty of the landscape that surrounds the observatory, we can observve how the two environments diverge. There is something about the beauty and exactness of reality that the digital world cannot capture completely. Perhaps there is nothing that can truly capture it.
+This piece describes my trip to the Griffith Observatory, and focuses specifically on this show I
+watched in their dome, about the universe. The show within the dome parallels my topic of being confined
+within a “digital prison”, in the sense that our perceptions of the universe are defined not by our 
+personal observations, but by what we are presented to believe. And this is true for many things, in fact.
+We naively believe what we are told, under the guise that “science” is always true, and the digital instruments
+that we use to measure and analyze and understand our universe are accurate. By objectively describing the
+physical confines of the dome and the artificiality of the show, as well as describing the authentic beauty of 
+the landscape that surrounds the observatory, we can observve how the two environments diverge. There is 
+something about the beauty and exactness of reality that the digital world cannot capture completely. Perhaps
+there is nothing that can truly capture it.
 
 ```
 
