@@ -5,7 +5,7 @@
 Throughout this course I have reflected on the idea of conveying “truth” through language. 
 I recall one of my favorite texts from the course -- James Agee’s interpretation of
 Walker Evans’s photos in Let Us Now Praise Famous Men. From this reading, I realized that
-there is no singular truth or singular, “correct’ interpretation of reality. This is 
+there is no singular truth or singular, “correct" interpretation of reality. This is 
 not a bad thing. In fact, we need to have multiple interpretations of reality to shock
 audiences into action, by exposing them to realities that they have not yet experienced.
 
