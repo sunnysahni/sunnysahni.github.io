@@ -169,7 +169,7 @@ There is a long line of people leading up to the entrance. I notice 2 security c
 
                   Experience more with 2 Laser Projectors!
                   Better graphics! Higher resolution!
-                  Experience 8k resolution with 60 frames per second playback from our latest projection                           technology. 
+                  Experience 8k resolution with 60 frames per second playback from our latest projection technology. 
 
                   Digistar intensifies color contrast and saturation and reduces image distortion on the 
                   curved planetarium dome surface for a transformative visual experience. 
@@ -205,6 +205,8 @@ world cannot capture completely. Perhaps there is nothing that can truly capture
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## The Digital Line
+
+![image](Picture1.png)
 
 Have you yet boarded the digital train? She arrived in the early 2000s and has really been building traction. You will know once you have boarded; the fare is quite high. Unfortunately, it seems to come at the cost of your life. See, once you board the digital train, there is only one direction left to travel, and that is along the contours of the tracks that the train has been set to follow. Data hungry train. But don’t worry so much, you are not the only person boarding the train. We are all contained, together! The government, our conductor, will help direct us along these capitalist contours, so thoughtfully mapped by such pretty ~ oh, pretty! ~ advertisements and mesmerizing entertainment devices. Be careful, now, once she admits you she will keep you until she exhausts you of all your information, and then she will toss you out with a hearty laugh right from the nose of her horn. Until then, though, just try to enjoy the ride.
 
