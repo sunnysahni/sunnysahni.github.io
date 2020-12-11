@@ -123,6 +123,31 @@ Accept the terms and conditions, and continue dining.
 
 ![image](counter_meme.png)
 
+```markdown
+Process Notes:
+
+With this assignment I wanted to not only explore a new writing style, but also 
+challenge my perspective on data privacy by narrating from the perspective of advertisers 
+and the general capital economy. I wanted to parallel the qualms of breaking a diet 
+with the irony of hating targeted advertising (because I have recently been trying to 
+cut sugar from my own diet). To start, I asked myself why data is so valuable to advertisers,
+and what type of data they generally steal, then reflected on my own consumption patterns
+and behavior. I was hesitant on submitting this piece just because I don’t generally
+incorporate explicit words in my writing. I decided though, that the best way I could 
+exaggerate frustration/anger and maintain some sort of “subconscious casualness” in my
+language was by using very repetitive, explicit language. I like the idea of the narrator
+being someone’s overly frustrated superego, who is really upset with their person’s seemingly
+“irrational” thought process.
+
+Counter Meme: The advertisers are Putin, delivering the syrup pancakes to the consumer, 
+who is the little girl. The syrup symbolizes the products that the consumer finds particularly
+useful and intriguing. The yummy meal reflects how advertisers use data to better target 
+products that the consumer would find useful or “yummy.” While we often look at advertisers 
+as data-hungry monsters, this counter meme presents the consumer as an unrestrained child, 
+hungry for their next purchase.
+
+```
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Observations at an Observatory 
@@ -181,16 +206,13 @@ world cannot capture completely. Perhaps there is nothing that can truly capture
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## The Digital Line
 
-Have you ever watched a steam train leave its station? She slowly groans and grubs against the rails, churning her large, mechanical legs with increasing fervor. Each wooden nibble ignites her further. She releases a loud, airy chuckle as she races down the platform, holding her passengers captive.  
+Have you yet boarded the digital train? She arrived in the early 2000s and has really been building traction. You will know once you have boarded; the fare is quite high. Unfortunately, it seems to come at the cost of your life. See, once you board the digital train, there is only one direction left to travel, and that is along the contours of the tracks that the train has been set to follow. Data hungry train. But don’t worry so much, you are not the only person boarding the train. We are all contained, together! The government, our conductor, will help direct us along these capitalist contours, so thoughtfully mapped by such pretty ~ oh, pretty! ~ advertisements and mesmerizing entertainment devices. Be careful, now, once she admits you she will keep you until she exhausts you of all your information, and then she will toss you out with a hearty laugh right from the nose of her horn. Until then, though, just try to enjoy the ride.
 
-Have you yet boarded the digital train? She arrived in the early 2000s and has really been building traction. You will know once you have boarded; the fare is quite high. Unfortunately, it seems to come at the cost of your life. See, once you board the digital train, there is only one direction left to travel, and that is along the contours of the tracks that the train has been set to follow. Data hungry train. But don’t worry so much, you are not the only person boarding the train. We are all contained, together! The government, our conductor, will help direct us along these capitalist contours, so thoughtfully mapped by such pretty ~oh, pretty!~ advertisements and mesmerizing entertainment devices. Be careful, now, once she admits you she will keep you until she exhausts you of all your information, and then she will toss you out with a hearty laugh right from the nose of her horn. Until then, though, just try to enjoy the ride.
-
-Do you have motion sickness? It isn’t uncommon. She might try to sell you some of that mind-numbing, pill tea to distract you from the nausea that she creates. Very smart of her, see, because you might think the tea is free, but really, she’s just nibbled a little bit of your identity (yes, this is synonymous to ~privacy~). Little nibbles here and there. Keep the train car just cold enough so that you ask for the heater to be turned on, and while you think the heating is free, she dips one titanium arm into the front pocket of your mind– patting your shoulder with her other – as she thanks you for choosing her for your journey today. Hah. Don’t be fooled by her comradery, she can just as easily turn scary. When you’ve been riding for so long, it becomes easy to forget just how menacing she looks.
+Do you have motion sickness? It isn’t uncommon. She might try to sell you some of that mind-numbing, crumb cake to distract you from the nausea that she creates. Very smart of her, see, because you might think the cake is free, but really, she’s just nibbled a little bit of your identity (yes, this is synonymous to ~ privacy ~). Little nibbles here and there. Keep the train car just cold enough so that you ask for the heater to be turned on, and while you think the heating is free, she dips one titanium arm into the front pocket of your mind– patting your shoulder with her other – as she thanks you for choosing her for your journey today. Hah. Don’t be fooled by her comradery, she can just as easily turn scary. When you’ve been riding for so long, it becomes easy to forget just how menacing she looks.
 
 How are you enjoying the ride so far? Have you tipped her with your social security number yet? She loves that. Toss in a couple bits and coins! Why try to keep it all to yourself when you can share it?!  You’re going to be here for a while as it is…
 
 So, yeah. Welcome to the Digital Express, where the food is wonderful and the service is absolutely mind-blowing (and that’s because she can literally predict what you want before you know you want it)!
-
 
 To those who wander the web:
 
@@ -199,6 +221,21 @@ Be wary. You tread dangerously close between waters of sovereignty and complete 
 How much do you know yourself? Do you ever reflect upon your own patterns of thought? Can you categorize your behavior according to time of day, day of week, season of year? Can you tell me what you want, this instant? If you do not have answers, do not worry. Let me introduce you to someone who can fill you in. Here she is in all her glory, a digital canvas. She is here to divulge with you, your greatest insecurities, your innermost desires, your passions and whims, and your darkest dreams. She knows your history down to the milliseconds of your clicks. She creates your future with the content she displays before you. Be wary, dear friend.
 
 When you close your eyes at night, there she watches, with bright electricity pulsating through the fibers of her motherboard. Big, digital tentacles sprout from her body and spring themselves deep into your brain, probing at your conscious and sucking away your ability to think independently. By the time you wake up, she has reprogrammed you to her liking. Do you want to become another computerized cog? Another mechanical man? I urge you to fight the hive mind. Be wary of the internet, my friend. Be wary of her arrival. Be wary of your life.
+
+```markdown
+Process Notes:
+
+For the first part of the piece, I was inspired by an articles I came across, which illustrated
+the world's network of submarine fibre-optic cables as a trainline map. I wanted to illustrate 
+the "digital prison" within which we are confined as a train which keeps going faster and faster,
+collecting more and more data from us - its passengers - to continue. I've tied this piece to an
+earlier one - "Parody on the People's Perception of Privacy" - which also refers to the data that
+we leave behind across our journey of the digital world, as "crumbs". The second part of this piece 
+animates the artificiality that underlies our digital world. We finally meet the "digital monster" that
+contains us within our modern day prison. 
+
+```
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
