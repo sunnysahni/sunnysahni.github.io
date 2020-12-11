@@ -24,29 +24,8 @@ on our subsistence in the digital age. How have our devices rendered our intimic
 world and with each other, artificial? How can we break away from the confines of this 
 modern, digital prison? 
 ```
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## A Protest For Privacy
 
-![image](crwr_poster.jpg)
-
-```markdown
-Process Notes:
-
-I decided to create a political poster about loss of privacy and “digital confinement” 
-that parodies the Uncle Sam “I want you for U.S. army” propaganda poster. I wanted to
-parallel the level of understanding that most Americans who joined the U.S. army for WW1
-had about the war with that of most Americans who partake in our modern digital democracy.
-The "flag" behind a faceless Uncle Sam resembles a prison cell, and the warped stars look
-like passcode asterisks in the shape of a dollar sign. So often, we naively accept the “terms
-and conditions” without truly understanding what we are agreeing to and supporting. My parodied
-poster is very matter of fact, blatantly exposing the deception that underlies our privacy
-(or rather, lack of privacy) in the digital age.
-
-```
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Hacking Into The Archive
 
 ![image](hackingintoarchive.PNG)
@@ -247,5 +226,25 @@ meet the "digital monster" that contains us within our modern day prison.
 ```
 
 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## A Protest For Privacy
+
+![image](crwr_poster.jpg)
+
+```markdown
+Process Notes:
+
+I decided to create a political poster about loss of privacy and “digital confinement” 
+that parodies the Uncle Sam “I want you for U.S. army” propaganda poster. I wanted to
+parallel the level of understanding that most Americans who joined the U.S. army for WW1
+had about the war with that of most Americans who partake in our modern digital democracy.
+The "flag" behind a faceless Uncle Sam resembles a prison cell, and the warped stars look
+like passcode asterisks in the shape of a dollar sign. So often, we naively accept the “terms
+and conditions” without truly understanding what we are agreeing to and supporting. My parodied
+poster is very matter of fact, blatantly exposing the deception that underlies our privacy
+(or rather, lack of privacy) in the digital age.
+
+```
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
