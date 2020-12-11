@@ -83,7 +83,7 @@ https://www.fincen.gov/foia-exemptions-and-exclusions#:~:text=The%20Freedom%20of
 
 To rummage for solace. To fumble for your phone in your pocket, to find it, to feel relief. To wrap your fingers around its edges, to hug it tightly within your palm. To go for a walk outside. To see someone approaching, to lower your gaze, to pull out your phone, to check the time. To hear a chime and feel a buzz. To smile at the familiar glow. To unlock the box with a swift fingerprint. To walk with both hands in your pockets, hoodie rolled up. To watch the streetlamps, turn on at night. To tilt your head up at the sky. To feel small. To point your camera up to the stars, to flash a picture. To feel cold. To warm up your hands with the heat of your phone. 
 
-To crave a snack. To rip open a packet of Maggi Noodles. To gaze deeply into the rotating microwave plate. To eat at an empty table. To pull open a podcast on your phone. To listen to somebody, speak to an audience you cannot see. To imagine sitting next to somebody. To laugh alone. To share the last bite of noodles with yourself. To take a sip of cold water. To panic when your phone threatens to die, to frantically scramble for a charger, to jam the charger into your phone socket. To watch the screen brighten just slightly, to indicate that it is charging. To slump back into your seat, relieved. To sit with both elbows on the table and chin resting in both hands. To wait for your phone to charge back up. 
+To crave a snack. To rip open a packet of Maggi Noodles. To gaze deeply into the rotating microwave plate. To eat at an empty table. To pull open a podcast on your phone. To listen to somebody speak to an audience you cannot see. To imagine sitting next to somebody. To laugh alone. To share the last bite of noodles with yourself. To take a sip of cold water. To panic when your phone threatens to die, to frantically scramble for a charger, to jam the charger into your phone socket. To watch the screen brighten just slightly, to indicate that it is charging. To slump back into your seat, relieved. To sit with both elbows on the table and chin resting in both hands. To wait for your phone to charge back up. 
 
 To sing to the world from your bedroom window. To mindlessly scroll through apps and trending hashtags. To blink too many times. To skip a heartbeat when a notification pops up. To sift through your Insta. To distinguish each uploaded picture by its number of likes and comments. To measure the value of each memory by the recognition it has received. To have forgotten how you truly felt when that photo was taken. To have filtered out the warmth within your embraces and the lines that defined your smiles and worries. To have cropped out all the imperfections of the moment. To convince yourself that reality looks like #MIRL #POTD #Goals. To deconstruct the  intimicacies of reality and attempt to reconstruct them with brighter lighting.
 
@@ -103,23 +103,22 @@ dependent we are on our technology, and how we rely on it to save us from our th
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## PARODY ON THE PEOPLE’S PERCEPTION OF PRIVACY
+## Parody on the People's Perception of Privacy
 ![image](chosen_meme.jpg)
 
 Open your goddamn eyes, turn your head towards the plate and smell the fucking pancakes. You want the pancakes, damnit. Screw the diet. You knew you couldn’t resist forever. What did you expect? It was only a matter of time and they all knew you’d revert eventually. Don’t worry so much, they all do it too. It’s human nature. Just don’t eat it and expect it to be any different from the one hundred other times you ate it. You know what they say – can’t have your cake and eat it too – you’re breaking your fucking diet and that’s that. But what’s the point of having a fucking diet if you’re not going to break it? There are some things that just can’t exist without their own inexistence. Like laws. Or privacy. 
 
-The truth is that your information is about as private as your ability to follow your diet. Your hunger for more digital *things* - more memes, more likes, more views - makes you *FAT* with digital tracings. Everywhere you go you leave behind a trail of informational crumbs! And they *stimulate* your consumption by wagging the bait right in front of you. *New updates! New notifications! Recommended for you!* Incessant consumption. Staying on a digital diet requires extreme self-control, which they easily know how to tempt.
+The truth is that your information is about as private as your ability to follow your diet. Your hunger for more digital *things* - more memes, more likes, more views - makes you *FAT* with digital tracings. Everywhere you go you leave behind a trail of informational crumbs! And they *stimulate* your consumption by wagging the pancake right in front of you. *New updates! New notifications! Recommended for you!* Incessant consumption. Staying on a digital diet requires extreme self-control, which they easily know how to tempt.
 
 You want to eat the pancakes because you’re hungry and you’re hungry because you’re on a fucking diet. That’s why they create diners right next to gyms.  Are they wrong for creating them right by each other? They know suckers like you would see the sign and walk in. We’re all suckers though, nothing new about that. Are they monsters for luring you in with the sweet, sticky smell of maple syrup, and the crisp, warm fragrance of freshly flipped pancakes? What the fuck do you expect from them? It's their livelihood and you're sustaining them. It makes no fucking sense to call them monsters for giving you what you want. If they weren’t doing their job, you wouldn’t be here. And if you weren’t here, they wouldn’t exist. Don’t pin this on them. Blame your own fucking inability to control yourself. Fucking punk-ass finger pointer. 
 
-You didn’t even know you wanted pancakes until you came here. Then again, there are so many things out here to consume, it would be impossible to always know what you wanted. They knew you wanted pancakes and they just made it so fucking easy for you to get them. Come on, buy one. Buy a pancake. Buy a stack, you’ll get a better deal. Might as well get the combo with the drink if you want to get the best bang for your buck. What? They’re not forcing you to do anything. They’re just presenting you with the menu. And once you place your order, they'll simply note that decision down for the next time you come by. They'll ask you a couple questions, gauge your tastes, and keep recommending you more things to try. If they find that you're unresponsive to the recommendations, then they'll just collect your breadcrumbs and give them to someone else. *See?!* It's a good thing they're out here collecting your breadcrumbs!
+You didn’t even know you wanted pancakes until you came here. Then again, there are so many things out here to consume, it would be impossible to always know what you wanted. They knew you wanted pancakes and they just made it so fucking easy for you to get them. Come on, buy one. Buy a pancake. Buy a stack, you’ll get a better deal. Might as well get the combo with the drink if you want to get the best bang for your buck. What? They’re not forcing you to do anything. They’re just presenting you with the menu. And once you place your order, they'll simply note that decision down for the next time you come by. They'll ask you a couple questions, gauge your tastes, and keep recommending you more things to try. If they find that you're unresponsive to the recommendations, then they'll just collect your data crumbs and give them to someone else. *See?!* It's a good thing they're out here collecting your crumbs! They're putting your toss-away data crumbs to good use. For *your* benefit.
 
+How the fuck would you know what to order if they didn’t give you a menu? You’re a fucking hypocrite if you’re going to whine about them setting up shop when you’re the one fucking ordering off their menu and keeping them running in the first place. You've got a problem with them collecting your data? You don't like them keeping those crumbs you've left behind? Hah. Then stop eating altogether! Everywhere you go you'll leave crumbs behind, and you're a pancake addict. It's unavoidable. We all are.
 
-Well how the fuck would you know what to order if they didn’t give you a menu? You’re a fucking hypocrite if you’re going to whine about them setting up shop when you’re the one fucking ordering off their menu and keeping them running in the first place. You've got a problem with them collecting your data? Keeping those crumbs you've left behind? Hah. Then stop eating altogether! Everywhere you go you'll leave crumbs behind, and you're a pancake addict. It's unavoidable. We all are.
+Yeah, give them your money. Don't bother wiping those crumbs off your table, they'll just collect them from off the floor. 
 
-Yeah, give them your money. Don't bother wiping those crumbs off your table, they'll just sweep them off the floor. 
-
-Accept the terms and conditions, and continue dining. 
+Accept the terms and conditions, and continue dining. Bon Appétit.
 
 ![image](counter_meme.png)
 
@@ -130,7 +129,12 @@ With this assignment I wanted to not only explore a new writing style, but also
 challenge my perspective on data privacy by narrating from the perspective of advertisers 
 and the general capital economy. I wanted to parallel the qualms of breaking a diet 
 with the irony of hating targeted advertising (because I have recently been trying to 
-cut sugar from my own diet). To start, I asked myself why data is so valuable to advertisers,
+cut sugar from my own diet). "Crumbs" becomes a metaphor for the data trails we leave
+behind as we surf the web, which advertising agencies and social media giants like 
+Facebook use to keep us hooked to our devices. Our digital addictions are exploited
+and sustained.
+
+When first beginning this piece, I asked myself why data is so valuable to advertisers,
 and what type of data they generally steal, then reflected on my own consumption patterns
 and behavior. I was hesitant on submitting this piece just because I don’t generally
 incorporate explicit words in my writing. I decided though, that the best way I could 
@@ -191,14 +195,17 @@ This piece describes my trip to the Griffith Observatory, and focuses specifical
 on this show I watched in their dome, about the universe. The show within the dome
 parallels my topic of being confined within a “digital prison”, in the sense that 
 our perceptions of the universe are defined not by our personal observations, but 
-by what we are presented to believe. And this is true for many things, in fact.
+by what we are presented to believe. This is true for many things.
 We naively believe what we are told, under the guise that “science” is always true,
 and the digital instruments that we use to measure and analyze and understand our 
-universe are accurate. By objectively describing the physical confines of the dome 
-and the artificiality of the show, as well as describing the authentic beauty of 
-the landscape that surrounds the observatory, we can observve how the two environments
-diverge. There is something about the beauty and exactness of reality that the digital
-world cannot capture completely. Perhaps there is nothing that can truly capture it.
+universe are accurate. 
+
+By objectively describing the physical confines of the dome 
+and the artificiality of the show, as well as describing the authentic beauty
+of the landscape that surrounds the observatory, we can observve how the two
+environments diverge. There is something about the beauty and exactness of reality
+that the digital world cannot capture completely. Perhaps there is nothing that can
+truly capture it.
 
 ```
 
@@ -230,11 +237,12 @@ Process Notes:
 For the first part of the piece, I was inspired by an articles I came across, which illustrated
 the world's network of submarine fibre-optic cables as a trainline map. I wanted to illustrate 
 the "digital prison" within which we are confined as a train which keeps going faster and faster,
-collecting more and more data from us - its passengers - to continue. I've tied this piece to an
-earlier one - "Parody on the People's Perception of Privacy" - which also refers to the data that
-we leave behind across our journey of the digital world, as "crumbs". The second part of this piece 
-animates the artificiality that underlies our digital world. We finally meet the "digital monster" that
-contains us within our modern day prison. 
+collecting more and more data from us - its passengers - to continue. 
+
+I've tied this piece to an earlier one - "Parody on the People's Perception of Privacy" - which 
+also refers to the data that we leave behind across our journey of the digital world, as "crumbs".
+The second part of this piece animates the artificiality that underlies our digital world. We finally
+meet the "digital monster" that contains us within our modern day prison.
 
 ```
 
