@@ -162,16 +162,18 @@ As the night passes, I reflect on the contents presented to me by the tools we c
 ```markdown
 Process Notes:
 
-This piece describes my trip to the Griffith Observatory, and focuses specifically on this show I
-watched in their dome, about the universe. The show within the dome parallels my topic of being confined
-within a “digital prison”, in the sense that our perceptions of the universe are defined not by our 
-personal observations, but by what we are presented to believe. And this is true for many things, in fact.
-We naively believe what we are told, under the guise that “science” is always true, and the digital instruments
-that we use to measure and analyze and understand our universe are accurate. By objectively describing the
-physical confines of the dome and the artificiality of the show, as well as describing the authentic beauty of 
-the landscape that surrounds the observatory, we can observve how the two environments diverge. There is 
-something about the beauty and exactness of reality that the digital world cannot capture completely. Perhaps
-there is nothing that can truly capture it.
+This piece describes my trip to the Griffith Observatory, and focuses specifically 
+on this show I watched in their dome, about the universe. The show within the dome
+parallels my topic of being confined within a “digital prison”, in the sense that 
+our perceptions of the universe are defined not by our personal observations, but 
+by what we are presented to believe. And this is true for many things, in fact.
+We naively believe what we are told, under the guise that “science” is always true,
+and the digital instruments that we use to measure and analyze and understand our 
+universe are accurate. By objectively describing the physical confines of the dome 
+and the artificiality of the show, as well as describing the authentic beauty of 
+the landscape that surrounds the observatory, we can observve how the two environments
+diverge. There is something about the beauty and exactness of reality that the digital
+world cannot capture completely. Perhaps there is nothing that can truly capture it.
 
 ```
 
