@@ -32,6 +32,7 @@ modern, digital prison?
 ![image](crwr_poster.jpg)
 
 ```markdown
+Process Notes:
 
 I decided to create a political poster about loss of privacy and “digital confinement” that parodies the
 Uncle Sam “I want you for U.S. army” propaganda poster. I wanted to parallel the level of understanding that
@@ -109,7 +110,7 @@ The truth is that your information is about as private as your ability to follow
 
 You want to eat the pancakes because you’re hungry and you’re hungry because you’re on a fucking diet. That’s why they create diners right next to gyms.  Are they wrong for creating them right by each other? They know suckers like you would see the sign and walk in. We’re all suckers though, nothing new about that. Are they monsters for luring you in with the sweet, sticky smell of maple syrup, and the crisp, warm fragrance of freshly flipped pancakes? What the fuck do you expect from them? It's their livelihood and you're sustaining them. It makes no fucking sense to call them monsters for giving you what you want. If they weren’t doing their job, you wouldn’t be here. And if you weren’t here, they wouldn’t exist. Don’t pin this on them. Blame your own fucking inability to control yourself. Fucking punk-ass finger pointer. 
 
-You didn’t even know you wanted pancakes until you came here. Then again, there are so many things out here to consume, it would be impossible to always know what yu wanted. They knew you wanted pancakes and they just made it so fucking easy for you to get them. Come on, buy one. Buy a pancake. Buy a stack, you’ll get a better deal. Might as well get the combo with the drink if you want to get the best bang for your buck. What? They’re not forcing you to do anything. They’re just presenting you with the menu. And once you place your order, they'll simply note that decision down for the next time you come by. They'll ask you a couple questions, gauge your tastes, and keep recommending you more things to try. If they find that you're unresponsive to the recommendations, then they'll just collect your breadcrumbs and give them to someone else. *See?!* It's a good thing they're out here collecting your breadcrumbs!
+You didn’t even know you wanted pancakes until you came here. Then again, there are so many things out here to consume, it would be impossible to always know what you wanted. They knew you wanted pancakes and they just made it so fucking easy for you to get them. Come on, buy one. Buy a pancake. Buy a stack, you’ll get a better deal. Might as well get the combo with the drink if you want to get the best bang for your buck. What? They’re not forcing you to do anything. They’re just presenting you with the menu. And once you place your order, they'll simply note that decision down for the next time you come by. They'll ask you a couple questions, gauge your tastes, and keep recommending you more things to try. If they find that you're unresponsive to the recommendations, then they'll just collect your breadcrumbs and give them to someone else. *See?!* It's a good thing they're out here collecting your breadcrumbs!
 
 
 Well how the fuck would you know what to order if they didn’t give you a menu? You’re a fucking hypocrite if you’re going to whine about them setting up shop when you’re the one fucking ordering off their menu and keeping them running in the first place. You've got a problem with them collecting your data? Keeping those crumbs you've left behind? Hah. Then stop eating altogether! Everywhere you go you'll leave crumbs behind, and you're a pancake addict. It's unavoidable. We all are.
@@ -124,7 +125,8 @@ Accept the terms and conditions, and continue dining.
 
 ## Observations at an Observatory 
 
-Wind tussles my hair and fussily tugs at my clothes as I look beyond the west terrace of the Griffith Observatory, over rolling brown hills and twinkling Los Angeles city-lights. Arching ever-so-slightly, the sky, a milky blue and orange gradient, stretches and blinks drowsily. The sun rests her head along his back. I notice the first few stars just beginning to appear and instinctively reach for my phone. Little, delicate, dazzling gems from the universe. Cosmic sprinkles. But when I point my camera towards the sky, all I manage to capture is a fuzzy, dim-lit, partial-narrative. Where did the stars go? I slip my phone back into my pocket and let my eyes absorb and document the stars instead. Only a few moments go by before my mom indicates it is time to go inside the big observatory dome, to see the tonight’s special show: Centered in the Universe. 
+The winds are strong, and I struggle to keep my hair in place as I look beyond the west terrace of the Griffith Observatory, over rolling brown hills and twinkling Los Angeles city-lights. Arching ever-so-slightly, the sky appears a milky blue and orange gradient, like a blanket over the horizon. The sunset is breathtaking. I notice the first few stars just beginning to appear and instinctively reach for my phone. Little, delicate, dazzling gems from the universe. Cosmic sprinkles. But when I point my camera towards the sky, all I manage to capture is a fuzzy, dim-lit, partial-narrative. Where did the stars go? I slip my phone back into my pocket and let my eyes absorb and document the stars instead. Only a few moments go by before it is time to head inside the big observatory dome, to see the tonight’s special show: Centered in the Universe. 
+
 There is a long line of people leading up to the entrance. I notice 2 security cameras perched on the left wall watching each of us pass by. As I enter through the large metal awning, my eyes wander up to a blank, globular ceiling, veined with faint grey markings that remind me of the gridlines on a coordinate axis. Someone slips a pamphlet into my hand:
 
                   Digistar 5 Projection System
@@ -140,19 +142,27 @@ There is a long line of people leading up to the entrance. I notice 2 security c
 
                   Experience more with 2 Laser Projectors!
                   Better graphics! Higher resolution!
-                  Experience 8k resolution with 60 frames per second playback from our latest projection technology. 
+                  Experience 8k resolution with 60 frames per second playback from our latest projection                           technology. 
 
                   Digistar intensifies color contrast and saturation and reduces image distortion on the 
                   curved planetarium dome surface for a transformative visual experience. 
                   [http://www.griffithobservatory.org/exhibits/sop.html]
 
-We find seats somewhere within the sea of people filtering into the room. My mom is happy that we have gotten good seats, but I know that it doesn’t matter where we sit, because we will all be seeing the same thing anyways. We will all be observing the 8k resolution, 60 frames per second playback. We will be entranced by the multi-laser-projection graphics, and the overpowering speaker who will guide us through the cosmos. We will tilt our heads up to the roof and sink further into our seats. Inside this little black box, we will believe that we are traveling through the universe. 
+We find seats somewhere within the sea of people filtering into the room. My family is happy to have landed "good seats", but I know that it doesn’t matter where we sit, because we will all be seeing the same thing anyways. We will all be observing the 8k resolution, 60 frames per second playback. We will be entranced by the multi-laser-projection graphics, and the overpowering speaker who will guide us through the cosmos. We will tilt our heads up to the roof and sink further into our seats. Inside this little black box, we will believe that we are traveling through the universe. 
 
 As the night passes, I reflect on the contents presented to me by the tools we claim most accurately depict our universe. I need to remind myself that the images I see on this dome ceiling are not real. Pointing the camera at each other is no different than pointing the camera to the sky. How can I be skeptical of one and not the other? Outside, 
                                                             
                                                 One gold, glowing eye
                                              silently bids me goodnight,
                                                  high up in the sky.
+
+
+```markdown
+Process Notes:
+
+This piece describes my trip to the Griffith Observatory, and focuses specifically on this show I watched in their dome, about the universe. The show within the dome parallels my topic of being confined within a “digital prison”, in the sense that our perceptions of the universe are defined not by our personal observations, but by what we are presented to believe. And this is true for many things, in fact. We naively believe what we are told, under the guise that “science” is always true, and the digital instruments that we use to measure and analyze and understand our universe are accurate. By objectively describing the physical confines of the dome and the artificiality of the show, as well as describing the authentic beauty of the landscape that surrounds the observatory, we can observve how the two environments diverge. There is something about the beauty and exactness of reality that the digital world cannot capture completely. Perhaps there is nothing that can truly capture it.
+
+```
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
