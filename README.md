@@ -135,7 +135,7 @@ hungry for their next purchase.
 
 ## Observations at an Observatory 
 
-The winds are strong, and I struggle to keep my hair in place as I look beyond the west terrace of the Griffith Observatory, over rolling brown hills and twinkling Los Angeles city-lights. Arching ever-so-slightly, the sky appears a milky blue and orange gradient, like a blanket over the horizon. The sunset is breathtaking. I notice the first few stars just beginning to appear and instinctively reach for my phone. Little, delicate, dazzling gems from the universe. Cosmic sprinkles. But when I point my camera towards the sky, all I manage to capture is a fuzzy, dim-lit, partial-narrative. Where did the stars go? I slip my phone back into my pocket and let my eyes absorb and document the stars instead. Only a few moments go by before it is time to head inside the big observatory dome, to see the tonight’s special show: Centered in the Universe. 
+The winds are strong, and I struggle to keep my hair in place as I look beyond the west terrace of the Griffith Observatory, over rolling brown hills and twinkling Los Angeles city-lights. Arching ever-so-slightly, the sky appears a milky blue and orange gradient, like a blanket over the horizon. The sunset is breathtaking. I notice the first few stars just beginning to appear and instinctively reach for my phone. Little, delicate, dazzling gems from the universe. Cosmic sprinkles. But when I point my camera towards the sky, all I manage to capture is a fuzzy, dim-lit, partial-narrative. Where did the stars go? I slip my phone back into my pocket and let my eyes absorb and document the stars instead. Only a few moments go by before it is time to head inside the big observatory dome, to see tonight’s special show: Centered in the Universe. 
 
 There is a long line of people leading up to the entrance. I notice 2 security cameras perched on the left wall watching each of us pass by. As I enter through the large metal awning, my eyes wander up to a blank, globular ceiling, veined with faint grey markings that remind me of the gridlines on a coordinate axis. Someone slips a pamphlet into my hand:
 
@@ -181,7 +181,7 @@ universe are accurate.
 
 By objectively describing the physical confines of the dome 
 and the artificiality of the show, as well as describing the authentic beauty
-of the landscape that surrounds the observatory, we can observve how the two
+of the landscape that surrounds the observatory, we can observe how the two
 environments diverge. There is something about the beauty and exactness of reality
 that the digital world cannot capture completely. Perhaps there is nothing that can
 truly capture it.
@@ -213,7 +213,7 @@ When you close your eyes at night, there she watches, with bright electricity pu
 ```markdown
 Process Notes:
 
-For the first part of the piece, I was inspired by an articles I came across, which illustrated
+For the first part of the piece, I was inspired by an article I came across, which illustrated
 the world's network of submarine fibre-optic cables as a trainline map. I wanted to illustrate 
 the "digital prison" within which we are confined as a train which keeps going faster and faster,
 collecting more and more data from us - its passengers - to continue. 
